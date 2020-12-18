@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-	return "Sample Python flask project to understand Github actions!!"
+	return "Sample Python flask project to understand Github actions!"
 
 
 if __name__ == "__main__":
